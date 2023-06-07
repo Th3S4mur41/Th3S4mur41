@@ -1,4 +1,4 @@
-[![svg from The S4mur41](banner-1280x240.jpg)](https://th3s4mur41.me)
+[![Th3S4mur41 Banner](Th3S4mur41_no-bg.png)](https://th3s4mur41.me)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michaelvanderheyden/" aria-label="Michaël Vanderheyden on LinkedIn">
