@@ -1,0 +1,28 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every 24 hours (at midnight)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+permissions:
+  contents: read  
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Pull in th3s4mur41 posts
+        uses: gautamkrishnar/blog-post-workflow@1.9.4
+        with:
+          feed_list: "https://th3s4mur41.me/rss.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
