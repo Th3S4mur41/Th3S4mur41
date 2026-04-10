@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: UpdateLatest blog posts
 on:
   schedule:
     # Runs every 24 hours (at midnight)
@@ -23,6 +23,6 @@ jobs:
       - name: Pull in th3s4mur41 posts
         uses: gautamkrishnar/blog-post-workflow@1.9.4
         with:
-          feed_list: "https://th3s4mur41.me/rss.xml"
+          feed_list: "https://th3s4mur41.me/feed.xml"
           max_post_count: 5
           template: "$newline- [$title]($url)"
