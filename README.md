@@ -14,11 +14,11 @@ I regularly publish my findings on **UX engineering**, **A11y test automation**,
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Labels: Automatic Checks and Manual Validation](https://th3s4mur41.me/blog/a11y-tips/labels-validation/)
 - [PHP in 2026: Modern Language, Fragmented Tooling](https://th3s4mur41.me/blog/php-in-2026-modern-language-fragmented-tooling/)
 - [When AI helps with better detection in accessibility testing](https://th3s4mur41.me/blog/ai-in-a11y-test-automation/)
 - [Scroll-Driven Animations and Test Automation](https://th3s4mur41.me/blog/sda-in-test-automation/)
-- [Making Scrollable Code Blocks Accessible](https://th3s4mur41.me/blog/scroll-focus-polyfill/)
-- [Contrast: Beyond WCAG Compliance](https://th3s4mur41.me/blog/a11y-tips/contrast/)<!-- BLOG-POST-LIST:END -->
+- [Making Scrollable Code Blocks Accessible](https://th3s4mur41.me/blog/scroll-focus-polyfill/)<!-- BLOG-POST-LIST:END -->
 
 ## Connect & Collaborate
 I’m always open to discussing web standards, accessibility, or the martial arts discipline applied to engineering.
