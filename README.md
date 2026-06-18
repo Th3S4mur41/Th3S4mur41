@@ -14,11 +14,11 @@ I regularly publish my findings on **UX engineering**, **A11y test automation**,
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [href=&quot;#&quot; and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/)
 - [On to the Atmosphere!](https://th3s4mur41.me/notes/standard-site/)
 - [headingoffset Is Coming: How to Prepare Today](https://th3s4mur41.me/blog/headingoffset-is-coming-how-to-prepare-today/)
 - [The Evolution of Accessibility Testing: From Static Rules to Intelligent Automation](https://th3s4mur41.me/blog/ai-enhanced-a11y-tests/)
-- [Beyond compliance: Building accessibility into quality with test automation](https://th3s4mur41.me/blog/beyond-compliance-building-accessibility-into-quality-with-test-automation/)
-- [Grid Lanes, Subgrid, and No Extra Wrappers](https://th3s4mur41.me/blog/the-lean-web/grid-lanes-layout-with-subgrid/)<!-- BLOG-POST-LIST:END -->
+- [Beyond compliance: Building accessibility into quality with test automation](https://th3s4mur41.me/blog/beyond-compliance-building-accessibility-into-quality-with-test-automation/)<!-- BLOG-POST-LIST:END -->
 
 ## Connect & Collaborate
 I’m always open to discussing web standards, accessibility, or the martial arts discipline applied to engineering.
