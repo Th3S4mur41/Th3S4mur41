@@ -14,11 +14,11 @@ I regularly publish my findings on **UX engineering**, **A11y test automation**,
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Focusgroup: The Future of Keyboard Navigation](https://th3s4mur41.me/blog/focusgroup-the-future-of-keyboard-navigation/)
 - [decoding=async can break multipage view transitions](https://th3s4mur41.me/notes/decoding-async-breaks-view-transitions/)
 - [href=&quot;#&quot; and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/)
 - [On to the Atmosphere!](https://th3s4mur41.me/notes/standard-site/)
-- [headingoffset Is Coming: How to Prepare Today](https://th3s4mur41.me/blog/headingoffset-is-coming-how-to-prepare-today/)
-- [The Evolution of Accessibility Testing: From Static Rules to Intelligent Automation](https://th3s4mur41.me/blog/ai-enhanced-a11y-tests/)<!-- BLOG-POST-LIST:END -->
+- [headingoffset Is Coming: How to Prepare Today](https://th3s4mur41.me/blog/headingoffset-is-coming-how-to-prepare-today/)<!-- BLOG-POST-LIST:END -->
 
 ## Connect & Collaborate
 I’m always open to discussing web standards, accessibility, or the martial arts discipline applied to engineering.
