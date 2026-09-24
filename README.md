@@ -14,11 +14,11 @@ I regularly publish my findings on **UX engineering**, **A11y test automation**,
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Language Attribute: Setting the Right Context](https://th3s4mur41.me/blog/a11y-tips/language-attribute/)
 - [Mixins: From Preprocessors to Native CSS](https://th3s4mur41.me/blog/mixins-from-preprocessors-to-native-css/)
 - [Focusgroup: The Future of Keyboard Navigation](https://th3s4mur41.me/blog/focusgroup-the-future-of-keyboard-navigation/)
 - [decoding=async can break multipage view transitions](https://th3s4mur41.me/notes/decoding-async-breaks-view-transitions/)
-- [href=&quot;#&quot; and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/)
-- [On to the Atmosphere!](https://th3s4mur41.me/notes/standard-site/)<!-- BLOG-POST-LIST:END -->
+- [href=&quot;#&quot; and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/)<!-- BLOG-POST-LIST:END -->
 
 ## Connect & Collaborate
 I’m always open to discussing web standards, accessibility, or the martial arts discipline applied to engineering.
